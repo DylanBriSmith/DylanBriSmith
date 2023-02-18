@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-18T20:38:14.132Z" agent="5.0 (X11; Ubuntu)" etag="AVRFax4ZM-79LgtQt0qC" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-18T22:48:07.608Z" agent="5.0 (X11; Ubuntu)" etag="_BjkHlOuNf1abJpYragj" version="20.8.20" type="github">
   <diagram name="Page-1" id="84R-uZrEGf__POmiTpyL">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -274,8 +274,8 @@
         <mxCell id="5hd1LdSumRGHqzx9fz_n-68" value="&lt;div&gt;continues&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="205" y="450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5hd1LdSumRGHqzx9fz_n-69" value="At each continuing level, there are 2^n nodes if n is the level or " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="310" width="190" height="30" as="geometry" />
+        <mxCell id="5hd1LdSumRGHqzx9fz_n-69" value="At each continuing level, there are 2^n nodes if n is the level.Each node has cn cost so the total cost of each level is 2^k(cn/2^k)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="310" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
